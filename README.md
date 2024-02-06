@@ -27,7 +27,7 @@ Documentation: Access documentation for our projects and services to understand 
 Get in Touch
 We're always eager to connect with potential clients, collaborators, and fellow developers. If you have any questions, inquiries, or project ideas, please don't hesitate to reach out to us.
 
-Email: contact@uzmikmedia.com
+Email: info@uzmikmedia.com
 Website: www.uzmikmedia.com
 LinkedIn: Uzmik Media
 Thank you for your interest in Uzmik Media. We look forward to the opportunity to work with you and help bring your ideas to life!
